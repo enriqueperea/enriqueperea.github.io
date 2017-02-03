@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/_1",
     "noImageResize": "",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 40,
+    "uniqCompNum": 44,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Enrique Perea</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION &amp; BIOGRAPHY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BIOGRAPHY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PICTURES AND <br>VIDOES OF ME<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">ADOBE <br>PHOTOSHOP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">ADOBE <br>ILLUSTRATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soundbooth.html\">ADOBE <br>SOUNDBOOTH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">ADOBE <br>ANIMATE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123design.html\">123D DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\">FINAL CUT<br>PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">MOBIRISE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY <br>CERTIFICATION</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PHOTOSHOP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ILLUSTRATOR<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">MR. PATE'S <br>WEBSITE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION &amp; BIOGRAPHY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">INTRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-n\">BIOGRAPHY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">ADOBE <br>PHOTOSHOP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">ADOBE <br>ILLUSTRATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soundbooth.html\">ADOBE <br>SOUNDBOOTH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">ADOBE <br>ANIMATE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123design.html\">123D DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\">FINAL CUT<br>PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">MOBIRISE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft word.html\">Microsoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft power point.html\">Microsoft<br>Power&nbsp;Point</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY <br>CERTIFICATION</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PHOTOSHOP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ILLUSTRATOR<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">MR. PATE'S <br>WEBSITE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -148,7 +148,7 @@
           },
           "_anchor": "header2-v",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "47",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
@@ -159,7 +159,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.6",
             "overlayColor": "#2969b0",
             "inverse": false,
             "showTitle": true,
@@ -201,7 +201,8 @@
               "text-align": "center"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_anchor": "features6-l",
@@ -232,17 +233,17 @@
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "dribbble",
-              "family": "socicon",
+              "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
               "newWindow": false,
-              "color": "#ffffff"
+              "color": "#faaf40"
             }
           },
           "title1": "PROFFESIONAL<br>BASKETBALL PLAYER<br>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Playing basketball proffesionally has been my dream&nbsp;",
+          "caption1": "Playing basketball proffesionally has been my dream for the longest. This is because I strive to prove those who said I couldn't make it wrong. I want to make it to the highest level &nbsp;of basketball. I've had a lot and will continue to have a lot of doubters and they are what fuels my love and passion for the sport.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -253,12 +254,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#41a85f"
             }
           },
           "title2": "SPORTS TEAM OWNER",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "To be a sports team is just a small I've wanted recently. It would be nice to own a favorite sports team. Also it is a good investment because if that team wins alot of lets say champion ships it good be a great profit",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -269,12 +270,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#3d8eb9"
             }
           },
           "title3": "TRAVEL",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Traveling with a future family later on in life or even now at a young age could bring so many different experiecnes for me. I would love to see how people &nbsp;in other countries live their lives and what types of places they live in.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -285,12 +286,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#73110f"
             }
           },
           "title4": "BAR TENDER OR OWNER",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "This goal has come up recently. More and more everyday I am captivated by watching videos of people creating drinks of different flavors fused together to make something so tasteful. I wish to some day later on when I'm older to be able to mix drinks as a small job as an older fellow.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -330,16 +331,17 @@
             "P": {
               "color": "#ffffff",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "left"
             }
           },
           "_anchor": "content1-n",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#2969b0"
           },
-          "text": "<p>Since I was at a young age all I wanted to do is play basketball. I always used basketball as a way to be me, let loose, and let my mind be free and forget about all the bad in my life. I really did not know and still dont know, what I want to do with my life. Career wise I have always been indecisive about what career will make me happy. To be honest I dont believe I want a regular career. My dream has always been to make it as a professional basketball player, preferably in the National Basketball Association or better none as the NBA.</p>"
+          "text": "<p>Since I was at a young age all I wanted to do is play basketball. I always used basketball as a way to be me, let loose, and let my mind be free and forget about all the bad in my life. I really did not know and still dont know, what I want to do with my life. Career wise I have always been indecisive about what career will make me happy. To be honest I dont believe I want a regular career. My dream has always been to make it as a professional basketball player, preferably in the National Basketball Association or better none as the NBA. My parents have always filled me my head with the mentallity of trying to pursue a career that makes good money. As well as wanting to be a basketball player I wanted to be a firefighter because I wanted to be like my father. But my parents and even my father funny enough didn't recommend becoming a firefighter and rather wanted me to become a doctor. The reason they recommend becoming a doctor is because it makes a good living and also they think and I think too that I would be a great doctor. Reasons being that I love to help people whether I'm in a bad mood or not, the second reason being is that I'm not disgusted by gore or blood or the human body at all. Im actually quite fascinated by how our body works and why it works like it does as well as how different parts look and work with eachother. But all these regular careers I feel will not suit me and will be careers that I will love to do everyday. But I know for a fact that basketball is something that will always keep me happy and is what I want to do for the rest of my life.</p>"
         },
         {
           "_tags": [
@@ -1602,6 +1604,247 @@
           "title": "MOBIRISE",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "microsoft word.html": {
+      "settings": {
+        "title": "Web Page Creator Title",
+        "meta_descr": "Web Page Creator Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-14",
+          "_params": {
+            "bgColor": "#2969b0",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Enrique Perea</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION &amp; BIOGRAPHY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">INTRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-n\">BIOGRAPHY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">ADOBE <br>PHOTOSHOP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">ADOBE <br>ILLUSTRATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soundbooth.html\">ADOBE <br>SOUNDBOOTH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">ADOBE <br>ANIMATE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123design.html\">123D DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\">FINAL CUT<br>PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">MOBIRISE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft word.html\">Microsoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft power point.html\">Microsoft<br>Power&nbsp;Point</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY <br>CERTIFICATION</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PHOTOSHOP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ILLUSTRATOR<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">MR. PATE'S <br>WEBSITE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+        }
+      ]
+    },
+    "microsoft power point.html": {
+      "settings": {
+        "title": "Web Page Creator Title",
+        "meta_descr": "Web Page Creator Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-16",
+          "_params": {
+            "bgColor": "#2969b0",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Enrique Perea</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION &amp; BIOGRAPHY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">INTRODUCTION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-n\">BIOGRAPHY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">ADOBE <br>PHOTOSHOP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">ADOBE <br>ILLUSTRATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soundbooth.html\">ADOBE <br>SOUNDBOOTH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">ADOBE <br>ANIMATE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123design.html\">123D DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\">FINAL CUT<br>PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">MOBIRISE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft word.html\">Microsoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft power point.html\">Microsoft<br>Power&nbsp;Point</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INDUSTRY <br>CERTIFICATION</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PHOTOSHOP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ILLUSTRATOR<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">MR. PATE'S <br>WEBSITE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-17",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>4351 SW 137 CT<br>Miami, Florida",
+          "text2": "<strong>Contacts</strong><br>\nEmail: eperea@miamiartsstudio.com<br>\nPhone: (786)-294-8769<br><br>",
+          "text3": "<strong>Links</strong><br><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\" class=\"text-white\">Mr. Pate's Website</a>"
         }
       ]
     }
