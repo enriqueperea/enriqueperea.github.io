@@ -416,10 +416,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -448,10 +448,10 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-7",
+          "_anchor": "ext_menu-16",
           "_params": {
             "bgColor": "#2969b0",
-            "fontSize": "0.8",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -469,7 +469,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-227x128.jpg",
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -617,10 +617,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -649,10 +649,10 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-8",
+          "_anchor": "ext_menu-16",
           "_params": {
             "bgColor": "#2969b0",
-            "fontSize": "0.8",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -670,7 +670,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-227x128.jpg",
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -860,10 +860,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -892,10 +892,10 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-9",
+          "_anchor": "ext_menu-16",
           "_params": {
             "bgColor": "#2969b0",
-            "fontSize": "0.9",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -913,7 +913,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-227x128.jpg",
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -992,8 +992,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x2000-800x80035.png",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x200038.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x2000-800x80050.png",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x200053.png",
                 "caption": "New Miami Dade County Public Schools Logo Entry (Competition)",
                 "active": false
               },
@@ -1002,8 +1002,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/enrique-perea-2000x1524-800x60936.jpg",
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x152439.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/enrique-perea-2000x1524-800x60951.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x152454.jpg",
                 "caption": "Miami Arts Studio Sights and Sounds of the 60s 3D Template",
                 "active": false
               },
@@ -1012,8 +1012,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x800-800x32037.png",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2000x80040.png",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x800-800x32052.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x80055.png",
                 "caption": "New Miami Dade County Public Schools Logo Entry (Competition)",
                 "active": true
               }
@@ -1102,10 +1102,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1137,7 +1137,7 @@
           "_anchor": "ext_menu-a",
           "_params": {
             "bgColor": "#2969b0",
-            "fontSize": "0.9",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -1281,10 +1281,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1313,10 +1313,10 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-b",
+          "_anchor": "ext_menu-16",
           "_params": {
             "bgColor": "#2969b0",
-            "fontSize": "0.9",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -1334,10 +1334,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1462,10 +1464,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1494,10 +1496,10 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-c",
+          "_anchor": "ext_menu-16",
           "_params": {
             "bgColor": "#2969b0",
-            "fontSize": "0.9",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -1515,10 +1517,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1640,10 +1644,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1672,10 +1676,10 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-d",
+          "_anchor": "ext_menu-16",
           "_params": {
             "bgColor": "#2969b0",
-            "fontSize": "0.9",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -1693,10 +1697,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1818,10 +1824,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1850,10 +1856,10 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-e",
+          "_anchor": "ext_menu-16",
           "_params": {
             "bgColor": "#2969b0",
-            "fontSize": "0.9",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -1871,10 +1877,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1996,10 +2004,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2031,7 +2039,7 @@
           "_anchor": "ext_menu-14",
           "_params": {
             "bgColor": "#2969b0",
-            "fontSize": "0.9",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -2248,10 +2256,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2283,7 +2291,7 @@
           "_anchor": "ext_menu-16",
           "_params": {
             "bgColor": "#2969b0",
-            "fontSize": "0.9",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
