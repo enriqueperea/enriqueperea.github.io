@@ -992,8 +992,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x2000-800x8000.png",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x20003.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x2000-800x80014.png",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x200017.png",
                 "caption": "New Miami Dade County Public Schools Logo Entry (Competition)",
                 "active": false
               },
@@ -1002,8 +1002,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/enrique-perea-2000x1524-800x6091.jpg",
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x15244.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/enrique-perea-2000x1524-800x60915.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x152418.jpg",
                 "caption": "Miami Arts Studio Sights and Sounds of the 60s 3D Template",
                 "active": false
               },
@@ -1012,8 +1012,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x800-800x3202.png",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2000x8005.png",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x800-800x32016.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x80019.png",
                 "caption": "New Miami Dade County Public Schools Logo Entry (Competition)",
                 "active": true
               }
