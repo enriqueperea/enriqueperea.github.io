@@ -947,8 +947,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x2000-800x8001.png",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x20004.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x2000-800x80029.png",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x200032.png",
                 "caption": "New Miami Dade County Public Schools Logo Entry (Competition)",
                 "active": false
               },
@@ -957,8 +957,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/enrique-perea-2000x1524-800x6092.jpg",
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x15245.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/enrique-perea-2000x1524-800x60930.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x152433.jpg",
                 "caption": "Miami Arts Studio Sights and Sounds of the 60s 3D Template",
                 "active": false
               },
@@ -967,8 +967,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x800-800x3203.png",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2000x8006.png",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x800-800x32031.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x80034.png",
                 "caption": "New Miami Dade County Public Schools Logo Entry (Competition)",
                 "active": true
               }
@@ -2449,7 +2449,7 @@
           },
           "title": "WELCOME<br><br>",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Enter</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Enter</a> "
         },
         {
           "_tags": [
