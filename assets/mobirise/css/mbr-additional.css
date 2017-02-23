@@ -472,18 +472,7 @@ h6,
 }
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#header1-1m .mbr-section-title {
-  text-align: center;
-}
-#features6-l H4 {
-  color: #ffffff;
-  text-align: center;
-}
-#features6-l P {
-  color: #ffffff;
-  text-align: left;
+  color: #2969b0!important;
 }
 #contacts1-w STRONG {
   color: #ffffff;
@@ -1281,6 +1270,17 @@ h6,
 #ext_menu-1j .dropdown-item[aria-expanded="true"] {
   color: #2969b0!important;
 }
+#header1-1s .mbr-section-title {
+  text-align: center;
+}
+#features6-1t H4 {
+  color: #ffffff;
+  text-align: center;
+}
+#features6-1t P {
+  color: #ffffff;
+  text-align: left;
+}
 #contacts1-1k STRONG {
   color: #ffffff;
 }
@@ -1346,7 +1346,7 @@ h6,
 }
 #ext_menu-1o .link[aria-expanded="true"],
 #ext_menu-1o .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #content1-1q P {
   color: #ffffff;
