@@ -477,6 +477,9 @@ h6,
 #contacts1-w STRONG {
   color: #ffffff;
 }
+#msg-box1-22 H3 {
+  color: #ffffff;
+}
 
 #ext_menu-16 .hide-buttons .nav-btn {
   display: none !important;
@@ -497,11 +500,11 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #ext_menu-16 .link {
-  font-size: 0.95rem;
+  font-size: 1.15rem;
 }
 #ext_menu-16 .dropdown-item,
 #ext_menu-16 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.245rem;
 }
 #ext_menu-16 .link:hover,
 #ext_menu-16 .dropdown-item:hover,
@@ -538,7 +541,7 @@ h6,
 }
 #ext_menu-16 .link[aria-expanded="true"],
 #ext_menu-16 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #form1-i .form-control-label {
   color: #ffffff;
@@ -547,6 +550,9 @@ h6,
   color: #ffffff;
 }
 #contacts1-17 STRONG {
+  color: #ffffff;
+}
+#msg-box1-24 H3 {
   color: #ffffff;
 }
 
@@ -610,7 +616,7 @@ h6,
 }
 #ext_menu-16 .link[aria-expanded="true"],
 #ext_menu-16 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #header5-s .mbr-section-title {
   color: #ffffff;
@@ -622,6 +628,9 @@ h6,
 #contacts1-17 STRONG {
   color: #ffffff;
 }
+#msg-box1-26 H3 {
+  color: #ffffff;
+}
 
 #ext_menu-16 .hide-buttons .nav-btn {
   display: none !important;
@@ -683,7 +692,7 @@ h6,
 }
 #ext_menu-16 .link[aria-expanded="true"],
 #ext_menu-16 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #header5-u .mbr-section-title {
   color: #ffffff;
@@ -692,6 +701,9 @@ h6,
   color: #9c9a9a;
 }
 #contacts1-17 STRONG {
+  color: #ffffff;
+}
+#msg-box1-27 H3 {
   color: #ffffff;
 }
 
@@ -755,7 +767,7 @@ h6,
 }
 #ext_menu-a .link[aria-expanded="true"],
 #ext_menu-a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #header5-x .mbr-section-title {
   color: #ffffff;
@@ -764,6 +776,9 @@ h6,
   color: #9c9a9a;
 }
 #contacts1-17 STRONG {
+  color: #ffffff;
+}
+#msg-box1-28 H3 {
   color: #ffffff;
 }
 
@@ -827,7 +842,7 @@ h6,
 }
 #ext_menu-16 .link[aria-expanded="true"],
 #ext_menu-16 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #header5-y .mbr-section-title {
   color: #000;
@@ -842,6 +857,9 @@ h6,
 #contacts1-17 STRONG {
   color: #ffffff;
 }
+#msg-box1-29 H3 {
+  color: #ffffff;
+}
 
 #ext_menu-16 .hide-buttons .nav-btn {
   display: none !important;
@@ -903,7 +921,7 @@ h6,
 }
 #ext_menu-16 .link[aria-expanded="true"],
 #ext_menu-16 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #header5-z .mbr-section-title {
   color: #ffffff;
@@ -915,6 +933,9 @@ h6,
 #contacts1-17 STRONG {
   color: #ffffff;
 }
+#msg-box1-2a H3 {
+  color: #ffffff;
+}
 
 #ext_menu-16 .hide-buttons .nav-btn {
   display: none !important;
@@ -976,7 +997,7 @@ h6,
 }
 #ext_menu-16 .link[aria-expanded="true"],
 #ext_menu-16 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #header5-10 .mbr-section-title {
   color: #ffffff;
@@ -988,6 +1009,9 @@ h6,
 #contacts1-17 STRONG {
   color: #ffffff;
 }
+#msg-box1-2b H3 {
+  color: #ffffff;
+}
 
 #ext_menu-16 .hide-buttons .nav-btn {
   display: none !important;
@@ -1049,7 +1073,7 @@ h6,
 }
 #ext_menu-16 .link[aria-expanded="true"],
 #ext_menu-16 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #header5-11 .mbr-section-title {
   color: #ffffff;
@@ -1059,6 +1083,9 @@ h6,
   color: #9c9a9a;
 }
 #contacts1-17 STRONG {
+  color: #ffffff;
+}
+#msg-box1-2c H3 {
   color: #ffffff;
 }
 
@@ -1122,7 +1149,7 @@ h6,
 }
 #ext_menu-14 .link[aria-expanded="true"],
 #ext_menu-14 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #header5-1c .mbr-section-title {
   color: #ffffff;
@@ -1132,6 +1159,9 @@ h6,
   color: #9c9a9a;
 }
 #contacts1-17 STRONG {
+  color: #ffffff;
+}
+#msg-box1-2d H3 {
   color: #ffffff;
 }
 
@@ -1202,9 +1232,12 @@ h6,
 }
 #ext_menu-16 .link[aria-expanded="true"],
 #ext_menu-16 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #contacts1-17 STRONG {
+  color: #ffffff;
+}
+#msg-box1-2e H3 {
   color: #ffffff;
 }
 
@@ -1284,6 +1317,9 @@ h6,
 #contacts1-1k STRONG {
   color: #ffffff;
 }
+#msg-box1-23 H3 {
+  color: #ffffff;
+}
 
 
 #ext_menu-1o .hide-buttons .nav-btn {
@@ -1357,5 +1393,8 @@ h6,
   color: #ffffff;
 }
 #contacts1-1p STRONG {
+  color: #ffffff;
+}
+#msg-box1-21 H3 {
   color: #ffffff;
 }
