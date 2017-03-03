@@ -431,11 +431,11 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #ext_menu-0 .link {
-  font-size: 1.15rem;
+  font-size: 1rem;
 }
 #ext_menu-0 .dropdown-item,
 #ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.083rem;
 }
 #ext_menu-0 .link:hover,
 #ext_menu-0 .dropdown-item:hover,
@@ -1260,11 +1260,11 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #ext_menu-1j .link {
-  font-size: 1.15rem;
+  font-size: 1rem;
 }
 #ext_menu-1j .dropdown-item,
 #ext_menu-1j .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.083rem;
 }
 #ext_menu-1j .link:hover,
 #ext_menu-1j .dropdown-item:hover,
