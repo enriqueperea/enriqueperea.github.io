@@ -393,6 +393,15 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "P": {
+              "color": "#1092bb",
+              "text-align": "center",
+              "font-size": "32px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "1",
@@ -475,22 +484,19 @@
             "showBullets": false
           },
           "_anchor": "slider3-34",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "color": "#1092bb",
-              "text-align": "center",
-              "font-size": "32px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "font-size": "48px",
+              "color": "#636363"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "1",
@@ -687,13 +693,7 @@
             "showBullets": false
           },
           "_anchor": "slider3-32",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "48px",
-              "color": "#636363"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -918,6 +918,14 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "32px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "1",
@@ -926,7 +934,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-sights-and-sounds-of-the-60s-poster-2000x29622.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-sights-and-sounds-of-the-60s-poster-2000x29620.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -940,7 +948,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x15243.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x15241.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1028,15 +1036,7 @@
             "showBullets": false
           },
           "_anchor": "slider3-33",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-size": "32px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
