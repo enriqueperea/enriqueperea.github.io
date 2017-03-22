@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Enrique Perea Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -494,7 +494,7 @@
           "_styles": {
             "H2": {
               "font-size": "48px",
-              "color": "#636363"
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -505,7 +505,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-rough-draft-5-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-peark-earring-2000x2000.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -675,7 +675,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-rough-draft-16-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-final-draft-16-2000x2000.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -934,7 +934,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-sights-and-sounds-of-the-60s-poster-2000x29624.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-sights-and-sounds-of-the-60s-poster-2000x296210.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -948,7 +948,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x15245.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x152411.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
