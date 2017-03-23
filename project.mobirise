@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Enrique Perea Portfolio",
-    "currentPage": "photoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,14 +17,15 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "favicon": "@PROJECT_PATH@/assets/images/_1",
     "noImageResize": "",
     "versionFirst": "3.10.4",
     "uniqCompNum": 120,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -166,7 +167,7 @@
             "showButtons": true
           },
           "title": "Enrique Perea",
-          "text": "I'm going to get by when the going gets rough. I'm going to love life till I'm done growing up, and if I'm going down I'm gonna go down swinging my eyes still smiling and my heart stil singing.-Chancellor Bennet",
+          "text": "\"I'm going to get by when the going gets rough. I'm going to love life till I'm done growing up, and if I'm going down I'm gonna go down swinging my eyes still smiling and my heart stil singing.\"-Chancellor Bennet",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"opening page.html\" data-toolbar=\"-mbrBtnMove\">Enter</a> "
         },
         {
@@ -934,7 +935,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-sights-and-sounds-of-the-60s-poster-2000x296210.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-sights-and-sounds-of-the-60s-poster-2000x29622.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -948,7 +949,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x152411.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x15243.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2866,7 +2867,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/0nEnt_67u6o",
+              "src": "https://www.youtube.com/watch?v=fnaJn0Qk_yA",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -3273,7 +3274,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/0nEnt_67u6o",
+              "src": "https://www.youtube.com/watch?v=fnaJn0Qk_yA",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
