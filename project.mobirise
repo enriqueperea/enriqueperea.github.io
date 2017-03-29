@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Enrique Perea Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "adobe premiere.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/_1",
     "noImageResize": "",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 120,
+    "uniqCompNum": 139,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -2787,6 +2787,55 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INTRODUCTION &amp; BIOGRAPHY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"opening page.html\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"biography.html\">Biography</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\"><p>Adobe<br>Photoshop</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe&nbsp;<br>Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft&nbsp;<br>Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"untitled folder/Discuss IT Topic 6 (1).pdf\" target=\"_blank\">Discuss It Topic 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe&nbsp;<br>Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123design.html\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\">Final Cut<br>Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft power point.html\">Microsoft&nbsp;<br>Power Point</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soundbooth.html\">Adobe&nbsp;<br>Soundbooth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe premiere.html\">Adobe<br>Premiere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry&nbsp;<br>Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enriqueperea.github.io/untitled folder/Cert27391225110.pdf\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">IC3</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enriqueperea.github.io/untitled folder/Cert30292156981.pdf\">Living Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enriqueperea.github.io/untitled folder/Cert18992146418.pdf\">Computing Fundamentals</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate's&nbsp;<br>Website</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCGqWvuQ8B2PTUJ9wAstFWxA\" target=\"_blank\">My YouTube<br>Channel</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".lead UL": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3r",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-2000x2000.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/JVhSaD-fKF4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#2969b0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Self Introduction",
+          "text": "<p>Learn a little about how my interest in technology and physical therapy came to be.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/JVhSaD-fKF4\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
+        },
+        {
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
@@ -2801,11 +2850,11 @@
             "Theme"
           ],
           "_name": "header5",
-          "_anchor": "header5-3a",
+          "_anchor": "header5-3m",
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#636363",
             "bgColorRadio": true,
@@ -2824,62 +2873,6 @@
           "title": "My Dream",
           "text": "&nbsp; &nbsp; Since I was at a young age all I wanted to do is play basketball. I always used basketball as a way to be me, let loose, and let my mind be free and forget about all the bad in my life. I really did not know and still dont know, what I want to do with my life. Career wise I have always been indecisive about what career will make me happy. To be honest I dont believe I want a regular career. My dream has always been to make it as a professional basketball player, preferably in the National Basketball Association or better none as the NBA. My parents have always filled me my head with the mentallity of trying to pursue a career that makes good money. As well as wanting to be a basketball player I wanted to be a firefighter because I wanted to be like my father. But my parents and even my father funny enough didn't recommend becoming a firefighter and rather wanted me to become a doctor. The reason they recommend becoming a doctor is because it makes a good living and also they think and I think too that I would be a great doctor. Reasons being that I love to help people whether I'm in a bad mood or not, the second reason being is that I'm not disgusted by gore or blood or the human body at all. Im actually quite fascinated by how our body works and why it works like it does as well as how different parts look and work with eachother. Which is why I have chosen to go into the sports medicine field and become a physical therapist for athletes.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "msg-box4-39",
-          "_params": {
-            "imageSize": "53",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/JVhSaD-fKF4",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "SELF INTRODUCTION",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"adobe premiere.html\" data-toolbar=\"-mbrBtnMove\">Adobe Premiere</a>"
         },
         {
           "_tags": [
@@ -3233,60 +3226,53 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
-          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".lead UL": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "msg-box4-3b",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3u",
           "_params": {
-            "imageSize": "53",
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#838383",
-            "bgColorRadio": true,
+            "bgImage": "file:///C:/Users/0232937/AppData/Local/Mobirise.com/Mobirise/projectData/logo-2000x2000_1.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/JVhSaD-fKF4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#2969b0",
             "showTitle": true,
-            "showText": false,
-            "showButtons": false
+            "showText": true,
+            "showButton": true
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/JVhSaD-fKF4",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "SELF INTRODUCTION",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "Self Introduction",
+          "text": "<p>Learn a little about how my interest in technology and physical therapy came to be.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/JVhSaD-fKF4\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
         },
         {
           "_tags": [

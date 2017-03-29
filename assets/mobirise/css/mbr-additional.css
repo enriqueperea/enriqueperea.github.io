@@ -1248,16 +1248,29 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #2969b0!important;
 }
-#header5-3a .mbr-section-title {
+#msg-box8-3r .mbr-section-title,
+#msg-box8-3r p {
+  color: #fff;
+}
+#msg-box8-3r .mbr-section-title {
+  font-size: 60px;
+}
+#msg-box8-3r .lead UL {
+  color: #ffffff;
+}
+#msg-box8-3r .lead P {
+  text-align: center;
+  font-size: 15px;
+}
+#msg-box8-3r .btn {
+  font-size: 14px;
+}
+#header5-3m .mbr-section-title {
   color: #ffffff;
   text-align: center;
 }
-#header5-3a .mbr-section-lead {
+#header5-3m .mbr-section-lead {
   color: #ffffff;
-}
-#msg-box4-39 H3 {
-  color: #ffffff;
-  text-align: center;
 }
 #msg-box1-30 H3 {
   color: #ffffff;
@@ -1343,9 +1356,22 @@ h6,
 #header5-37 .mbr-section-lead {
   color: #9c9a9a;
 }
-#msg-box4-3b H3 {
+#msg-box8-3u .mbr-section-title,
+#msg-box8-3u p {
+  color: #fff;
+}
+#msg-box8-3u .mbr-section-title {
+  font-size: 60px;
+}
+#msg-box8-3u .lead UL {
   color: #ffffff;
+}
+#msg-box8-3u .lead P {
   text-align: center;
+  font-size: 15px;
+}
+#msg-box8-3u .btn {
+  font-size: 14px;
 }
 #contacts1-36 STRONG {
   color: #ffffff;
