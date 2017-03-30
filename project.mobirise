@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Enrique Perea Portfolio",
-    "currentPage": "adobe premiere.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/_1",
     "noImageResize": "",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 139,
+    "uniqCompNum": 140,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -167,7 +167,7 @@
           },
           "title": "Enrique Perea",
           "text": "\"I'm going to get by when the going gets rough. I'm going to love life till I'm done growing up, and if I'm going down I'm gonna go down swinging my eyes still smiling and my heart stil singing.\"-Chancellor Bennet",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"opening page.html\" data-toolbar=\"-mbrBtnMove\">Enter</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"opening page.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://youtu.be/JVhSaD-fKF4\" data-toolbar=\"-mbrBtnMove\">My Self Introduction</a> "
         },
         {
           "_tags": [
@@ -934,7 +934,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-sights-and-sounds-of-the-60s-poster-2000x29622.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-sights-and-sounds-of-the-60s-poster-2000x29624.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -948,7 +948,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x15243.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x15245.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2785,55 +2785,6 @@
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Enrique Perea</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INTRODUCTION &amp; BIOGRAPHY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"opening page.html\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"biography.html\">Biography</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\"><p>Adobe<br>Photoshop</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe&nbsp;<br>Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft&nbsp;<br>Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"untitled folder/Discuss IT Topic 6 (1).pdf\" target=\"_blank\">Discuss It Topic 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Adobe&nbsp;<br>Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123design.html\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\">Final Cut<br>Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoft power point.html\">Microsoft&nbsp;<br>Power Point</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soundbooth.html\">Adobe&nbsp;<br>Soundbooth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe premiere.html\">Adobe<br>Premiere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry&nbsp;<br>Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enriqueperea.github.io/untitled folder/Cert27391225110.pdf\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">IC3</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enriqueperea.github.io/untitled folder/Cert30292156981.pdf\">Living Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enriqueperea.github.io/untitled folder/Cert18992146418.pdf\">Computing Fundamentals</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate's&nbsp;<br>Website</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCGqWvuQ8B2PTUJ9wAstFWxA\" target=\"_blank\">My YouTube<br>Channel</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".lead UL": {
-              "color": "#ffffff"
-            },
-            ".lead P": {
-              "text-align": "center",
-              "font-size": "15px"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-3r",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-2000x2000.png",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/JVhSaD-fKF4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#2969b0",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "Self Introduction",
-          "text": "<p>Learn a little about how my interest in technology and physical therapy came to be.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/JVhSaD-fKF4\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
         },
         {
           "_inherit": "header1",
