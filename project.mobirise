@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/_1",
     "noImageResize": "",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 140,
+    "uniqCompNum": 143,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -203,6 +203,97 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/channel/UCGqWvuQ8B2PTUJ9wAstFWxA\" data-toolbar=\"-mbrBtnMove\">Channel</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "title": "MY YOUTUBE CHANNEL"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#636363",
+            "showMeta": false
+          },
+          "title": "Portfolio Samples",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1524-800x609.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1524.jpg",
+                "caption": "Enrique Perea- Sights and Sounds of the 60s 3D Poster Build",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1524-800x609.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1524.jpg",
+                "caption": "Enrique Perea - Girl with a Pearl Earring by Jan Vermeer Time Lapsed Reacreation",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1524-800x609.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1524.jpg",
+                "caption": "Enrique Perea - Miami Arts Studio Banner",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1524-800x609.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1524.jpg",
+                "caption": "Enrique Perea - Miami Arts Studio Logo",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-3x",
+          "articleLayout": false,
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -409,6 +500,20 @@
             "timeout": 5,
             "slides": [
               {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-sights-and-sounds-of-the-60s-poster-2000x2962.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": true,
+                "text": "Enrique Perea- Sights and Sounds of the 60s Poster",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x1524.jpg",
                 "playVideo": false,
@@ -419,20 +524,6 @@
                 "title": "BOOTSTRAP SLIDER",
                 "showText": true,
                 "text": "Enrique Perea- Sights and Sounds of the 60s 3D Poster Build",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-sights-and-sounds-of-the-60s-poster-2000x2962.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": true,
-                "text": "Enrique Perea- Sights and Sounds of the 60s Poster",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -465,7 +556,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/enrique-perea-mas-banner-1-2000x516.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -513,7 +604,7 @@
                 "overlayColor": "#2969b0",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Girl Jan Vermeer - Girl with a Pearl Earring Time Lapsed Reacreation<br>",
+                "title": "&nbsp;Jan Vermeer - Girl with a Pearl Earring Time Lapsed Reacreation<br>",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
@@ -934,7 +1025,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-sights-and-sounds-of-the-60s-poster-2000x296210.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-sights-and-sounds-of-the-60s-poster-2000x2962.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -948,7 +1039,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x152411.jpg",
+                "image": "@PROJECT_PATH@/assets/images/enrique-perea-2000x1524.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,

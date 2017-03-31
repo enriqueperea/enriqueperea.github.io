@@ -480,6 +480,17 @@ h6,
 #msg-box1-2y H3 {
   color: #ffffff;
 }
+#header3-3y .mbr-section-title,
+#header3-3y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3y H3 {
+  font-size: 36px;
+  color: #ffffff;
+}
+#gallery1-3x .mbr-gallery-item > div > span {
+  text-align: center;
+}
 #contacts1-w STRONG {
   color: #ffffff;
 }
