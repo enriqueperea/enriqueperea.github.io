@@ -17,14 +17,15 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "favicon": "@PROJECT_PATH@/assets/images/_1",
     "noImageResize": "",
     "versionFirst": "3.10.4",
     "uniqCompNum": 143,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -167,7 +168,7 @@
           },
           "title": "Enrique Perea",
           "text": "\"I'm going to get by when the going gets rough. I'm going to love life till I'm done growing up, and if I'm going down I'm gonna go down swinging my eyes still smiling and my heart stil singing.\"-Chancellor Bennet",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"opening page.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://youtu.be/JVhSaD-fKF4\" data-toolbar=\"-mbrBtnMove\">My Self Introduction</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"opening page.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://youtu.be/uvYMmnCwZashttps://youtu.be/uvYMmnCwZas\" data-toolbar=\"-mbrBtnMove\">My Self Introduction</a> "
         },
         {
           "_tags": [
@@ -233,6 +234,11 @@
             "Theme"
           ],
           "_name": "gallery1",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -288,12 +294,7 @@
           },
           "_anchor": "gallery1-3x",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "text-align": "center"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_tags": [
@@ -3314,7 +3315,7 @@
           },
           "title": "Self Introduction",
           "text": "<p>Learn a little about how my interest in technology and physical therapy came to be.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/JVhSaD-fKF4\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/uvYMmnCwZas\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
         },
         {
           "_tags": [
