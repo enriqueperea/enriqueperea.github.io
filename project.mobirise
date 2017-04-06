@@ -168,7 +168,7 @@
           },
           "title": "Enrique Perea",
           "text": "\"I'm going to get by when the going gets rough. I'm going to love life till I'm done growing up, and if I'm going down I'm gonna go down swinging my eyes still smiling and my heart stil singing.\"-Chancellor Bennet",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"opening page.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://youtu.be/uvYMmnCwZashttps://youtu.be/uvYMmnCwZas\" data-toolbar=\"-mbrBtnMove\">My Self Introduction</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"opening page.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.youtube.com/watch?v=u6LqYWnvcSM&amp;t=1s\" data-toolbar=\"-mbrBtnMove\">My Self Introduction</a> "
         },
         {
           "_tags": [
@@ -3315,7 +3315,7 @@
           },
           "title": "Self Introduction",
           "text": "<p>Learn a little about how my interest in technology and physical therapy came to be.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/uvYMmnCwZas\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=u6LqYWnvcSM&amp;t=1s\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
         },
         {
           "_tags": [
