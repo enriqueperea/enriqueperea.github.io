@@ -3384,7 +3384,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/5sk24J6VqBc?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/wa2hNNehZc0?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -3396,7 +3396,7 @@
           },
           "title": "Imagine Dragons - Believer Make The Cut Competition Piece",
           "text": "Look at a competition piece I made",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/5sk24J6VqBc\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/wa2hNNehZc0\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
         },
         {
           "_tags": [
