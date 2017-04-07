@@ -477,9 +477,6 @@ h6,
 #header4-2z .mbr-section-lead {
   text-align: center;
 }
-#msg-box1-2y H3 {
-  color: #ffffff;
-}
 #header3-3y .mbr-section-title,
 #header3-3y .mbr-section-subtitle {
   text-align: center;
@@ -490,6 +487,9 @@ h6,
 }
 #gallery1-3x .mbr-gallery-item > div > span {
   text-align: center;
+}
+#msg-box1-43 H3 {
+  color: #ffffff;
 }
 #contacts1-w STRONG {
   color: #ffffff;

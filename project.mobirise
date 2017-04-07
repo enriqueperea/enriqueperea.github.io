@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/_1",
     "noImageResize": "",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 147,
+    "uniqCompNum": 148,
     "versionPublish": "3.12",
     "path": "@PROJECT_PATH@"
   },
@@ -171,41 +171,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"opening page.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.youtube.com/watch?v=u6LqYWnvcSM&amp;t=1s\" data-toolbar=\"-mbrBtnMove\">My Self Introduction</a> "
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box1-2y",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#507eb1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": false,
-            "showTitle": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/channel/UCGqWvuQ8B2PTUJ9wAstFWxA\" data-toolbar=\"-mbrBtnMove\">Channel</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "MY YOUTUBE CHANNEL"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -295,6 +260,41 @@
           "_anchor": "gallery1-3x",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box1-43",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#507eb1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/channel/UCGqWvuQ8B2PTUJ9wAstFWxA\" data-toolbar=\"-mbrBtnMove\">Channel</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "MY YOUTUBE CHANNEL"
         },
         {
           "_tags": [
