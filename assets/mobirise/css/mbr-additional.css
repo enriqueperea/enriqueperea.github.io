@@ -1367,6 +1367,26 @@ h6,
 #msg-box8-3u .btn {
   font-size: 14px;
 }
+#msg-box8-3z .mbr-section-title,
+#msg-box8-3z p {
+  color: #fff;
+}
+#msg-box8-3z .mbr-section-title {
+  font-size: 46px;
+}
+#msg-box8-3z .lead UL {
+  color: #ffffff;
+}
+#msg-box8-3z .lead P {
+  text-align: center;
+  font-size: 15px;
+}
+#msg-box8-3z .btn {
+  font-size: 14px;
+}
+#msg-box8-3z .lead {
+  color: #ffffff;
+}
 #contacts1-36 STRONG {
   color: #ffffff;
 }
