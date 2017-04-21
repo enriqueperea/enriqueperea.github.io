@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/_1",
     "noImageResize": "",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 148,
+    "uniqCompNum": 150,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -3397,6 +3397,88 @@
           "title": "Imagine Dragons - Believer Make The Cut Competition Piece",
           "text": "Look at a competition piece I made",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/wa2hNNehZc0\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-44",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#4d4c4c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "PRE MADE BLOCKS"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
+            },
+            ".lead UL": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-45",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/logo-2000x2000_1.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/CfbW-an2-fI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#2969b0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "A Thousand Million Reasons Rough Draft",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/CfbW-an2-fI\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
         },
         {
           "_tags": [
