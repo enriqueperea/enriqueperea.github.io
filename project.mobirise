@@ -17,14 +17,15 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "favicon": "@PROJECT_PATH@/assets/images/_1",
     "noImageResize": "",
     "versionFirst": "3.10.4",
     "uniqCompNum": 150,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -3460,25 +3461,25 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/logo-2000x2000_1.png",
+            "bgImage": "file:///C:/Users/Enrique/AppData/Local/Mobirise.com/Mobirise/projectData/logo-2000x2000_1.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/CfbW-an2-fI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/vH_5rSyEKso?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": "0.3",
             "overlayColor": "#2969b0",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": true
           },
-          "title": "A Thousand Million Reasons Rough Draft",
+          "title": "A Thousand Million <br>Reasons Remake",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/CfbW-an2-fI\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/vH_5rSyEKso\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
         },
         {
           "_tags": [
