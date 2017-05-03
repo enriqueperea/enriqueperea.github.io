@@ -17,15 +17,14 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
-        "isRtl": false
+        "isScrollToTopButton": false
       }
     },
     "favicon": "@PROJECT_PATH@/assets/images/_1",
     "noImageResize": "",
     "versionFirst": "3.10.4",
     "uniqCompNum": 150,
-    "versionPublish": "3.12",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -3467,7 +3466,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/vH_5rSyEKso?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/5QOYhQHp5rk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -3479,7 +3478,7 @@
           },
           "title": "A Thousand Million <br>Reasons Remake",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/vH_5rSyEKso\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/5QOYhQHp5rk\" data-toolbar=\"-mbrBtnMove\">My Video</a>"
         },
         {
           "_tags": [
